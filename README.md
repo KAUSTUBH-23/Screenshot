@@ -10,7 +10,7 @@ Welcome to SCULPT, a fitness website. SCULPT offers a variety of fitness program
 
 ![Sculpt_2](https://github.com/KAUSTUBH-23/Screenshot/assets/87135513/7e0ee969-e1d8-45c3-83d4-b216e3e773e3)
 
-![](https://github.com/KAUSTUBH-23/Screenshot/assets/87135513/df195eaa-69a9-4448-aaa0-664c4932ddaf)
+https://github.com/KAUSTUBH-23/Screenshot/assets/87135513/df195eaa-69a9-4448-aaa0-664c4932ddaf
 
 ## Built With
 
@@ -83,5 +83,5 @@ For support, email ounkar.jagtap@spit.ac.in
 
 
 
-https://github.com/KAUSTUBH-23/Screenshot/assets/87135513/df195eaa-69a9-4448-aaa0-664c4932ddaf
+
 
