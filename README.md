@@ -9,6 +9,17 @@ Welcome to SCULPT, a fitness website. SCULPT offers a variety of fitness program
 
 ![REACT2](https://github.com/KAUSTUBH-23/Screenshot/assets/87135513/cd2243c3-16c5-447b-b411-b6a7f18b4714)
 
+![Mongo2](https://github.com/KAUSTUBH-23/Screenshot/assets/87135513/d1bd96a5-93b1-4814-90f0-decb528fddf6)
+
+![node2](https://github.com/KAUSTUBH-23/Screenshot/assets/87135513/1695009b-f731-4d84-a1bf-30d0f1f741ac)
+
+![express-logo2](https://github.com/KAUSTUBH-23/Screenshot/assets/87135513/b255b8e7-e63a-4622-a434-7817a5d8549d)
+
+![bootstrap-logo-vector2](https://github.com/KAUSTUBH-23/Screenshot/assets/87135513/9e51e587-c1bf-4c9c-9217-f041f4f1f4a6)
+
+
+
+
 ![Sculpt_2](https://github.com/KAUSTUBH-23/Screenshot/assets/87135513/7e0ee969-e1d8-45c3-83d4-b216e3e773e3)
 
 https://github.com/KAUSTUBH-23/Screenshot/assets/87135513/df195eaa-69a9-4448-aaa0-664c4932ddaf
